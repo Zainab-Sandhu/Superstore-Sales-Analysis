@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Data loading and exploration
 - Understanding dataset structure
 - Data cleaning and preprocessing
-- Handling missing values
+- Performed exploratory data analysis (EDA)
 - Sales analysis
 - Profit analysis
 - Category-wise analysis
