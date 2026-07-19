@@ -18,15 +18,15 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ##Analysis Performed
 
-- Data loading and exploration
-- Understanding dataset structure
-- Data cleaning and preprocessing
-- Performed exploratory data analysis (EDA)
-- Sales analysis
-- Profit analysis
-- Category-wise analysis
-- Region-wise analysis
-- Identifying top and low-performing orders
+- Loaded and explored the dataset
+- Checked dataset structure and data types
+- Checked for missing values and duplicate records
+- Performed sales and profit analysis
+- Analyzed category-wise, sub-category-wise, region-wise, state-wise, and customer-wise performance
+- Performed monthly sales, profit, and order analysis
+- Identified top-performing and loss-making products
+- Created summary tables using Pivot Tables
+- Generated business insights, conclusions and recommendations.
 
 ##Key Insights
 
