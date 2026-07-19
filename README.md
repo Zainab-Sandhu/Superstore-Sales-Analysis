@@ -4,7 +4,7 @@
 
 This project focuses on analyzing the Superstore dataset to extract meaningful business insights using Python and Pandas. The goal is to understand sales performance, profit trends, and customer/product patterns through data analysis.
 
-##Dataset
+## Dataset
 
 The dataset used in this project is the Superstore Sales Dataset from Kaggle.
 Dataset Source:
@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Pandas
 - Jupyter Notebook
 
-# #Analysis Performed
+## Analysis Performed
 
 - Loaded and explored the dataset
 - Checked dataset structure and data types
