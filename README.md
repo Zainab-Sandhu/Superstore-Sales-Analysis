@@ -26,6 +26,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Performed monthly sales, profit, and order analysis
 - Identified top-performing and loss-making products
 - Created summary tables using Pivot Tables
+- Generated visulizations using Pandas plotting
 - Generated business insights, conclusions and recommendations.
 
 ##Key Insights
