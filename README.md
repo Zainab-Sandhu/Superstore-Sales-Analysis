@@ -6,9 +6,16 @@ This project focuses on analyzing the Superstore dataset to extract meaningful b
 
 ## Dataset
 
-The dataset used in this project is the Superstore Sales Dataset from Kaggle.
-Dataset Source:
-https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+This project uses the Superstore Dataset.
+
+To run this project:
+1. Download the dataset from the Kaggle page.
+2. Place the CSV file in the same folder as the Jupyter Notebook (".ipynb").
+3. If the downloaded CSV has a different filename, rename it to "superstore.csv" before running the notebook.
+
+Dataset source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+Acknowledgement: I do not own this dataset. It was obtained from the Kaggle dataset page, where the uploader states that the data was sourced from the Tableau website. All credits go to the original authors/creators. This project is shared for educational and portfolio purposes.
 
 ## Tools & Technologies Used
 
