@@ -47,7 +47,6 @@ Acknowledgement: I do not own this dataset. It was obtained from the Kaggle data
 Superstore-Sales-Analysis/
 │
 ├── Superstore_Sales_Analysis.ipynb
-├── Superstore.csv
 └── README.md
 
 ## Conclusion
